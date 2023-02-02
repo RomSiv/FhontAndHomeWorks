@@ -1,0 +1,14 @@
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.par {
+    border: 1px solid black;
+    background-color: #34495e;
+    border-radius: 20px;
+    padding: 21px;
+    color: aliceblue;
+    font-size: 100%;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
