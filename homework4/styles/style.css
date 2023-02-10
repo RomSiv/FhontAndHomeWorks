@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 20px;
+}
+
+div {
+    width: 420px;
+    height: 426px;
+    top: -213px;
+    left: -761px;
+    border-radius: 20px;
+    padding: 16px;
+    border: 1px solid gray;
+    background-color: #FFFFFF;
+    box-shadow: 0 2px 8px 0;
+}
+
+h1 {
+    width: 356px;
+    height: 32px;
+    padding: 0 16px;
+    font-family: 'Nunito';
+    font-size: 28px;
+}
+
+input {
+    width: 356px;
+    height: 48px;
+    border-radius: 12px;
+    padding: 7px 16px 7px 16px;
+}
+
+.input1 {
+    border: 1px solid rgb(255, 228, 77, 1);
+}
+
+.input2 {
+    border: 1px solid rgb(207, 216, 220, 1);
+    width: 356px;
+    height: 48px;
+    border-radius: 12px;
+    padding: 7px 16px 7px 16px;
+}
+
+.registration {
+    border: none;
+    background-color: yellow;
+    font-size: 16px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+a {
+    font-family: "Nunino";
+    width: 400px;
+    size: 12px;
+    height: 14px;
+}
+
+
+
